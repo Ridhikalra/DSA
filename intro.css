@@ -1,0 +1,43 @@
+.head{
+    display: flex;
+    gap:5px;
+    margin-left:12%;
+    margin-right:12%;
+}
+.col{
+    background-color: #DED0B6;
+    font-weight: bold;
+}
+.col2{
+    background-color: #FAEED1;
+}
+.sno{
+    flex:1;
+}
+.questions{
+    flex:2;
+    padding-top:8px;
+    padding-bottom: 8px;;
+}
+.solution{
+    flex:1;
+}
+.notes{
+    flex:1;
+}
+.common{
+    border:1px solid grey;
+    padding :8px;
+    border-radius: 4px;
+    margin:2.5px;
+    text-align: center;
+}
+
+h1{
+    color: #BBAB8C;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: white;
+}
